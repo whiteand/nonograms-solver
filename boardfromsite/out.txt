@@ -1,0 +1,368 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="ru">
+<title>Черно-белый японский кроссворд «Петух»</title>
+<meta name="Description" content="">
+<meta name="Keywords" content="японские кроссворды, японский кроссворд, распечатать, печать, онлайн, online, free, бесплатно, japanese, japan, crossword ">
+<meta name="Copyright" content="Copyright (c) 2009-2018 Чугунный К.А. (KyberPrizrak)"><link rel="stylesheet" href="https://www.nonograms.ru/css/style.041.static.css" type="text/css"><link rel="shortcut icon" href="https://www.nonograms.ru/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="https://www.nonograms.ru/css/microlightbox.001.css" type="text/css">
+<script src="https://www.nonograms.ru/js/microlightbox.min.001.js"></script>
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<style>
+@-webkit-viewport {width: device-width;}
+@-moz-viewport {width: device-width;}
+@-ms-viewport {width: device-width;}
+@-o-viewport {width: device-width;}
+@viewport {width: device-width;}
+html, body {touch-action: pan-x pan-y cross-slide-x cross-slide-y;}
+.nonogram_name_disable_preload .nonogram_list .nonogram_descr a.nonogram_title,
+.nonogram_name_disable_preload h1,
+.nonogram_name_disable_preload .user_saves_table a,
+.nonogram_name_disable_preload #breadcrumb_last_item {visibility: hidden;}
+</style>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17949808-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body class="nonogram_name_disable_preload">
+<table class="wrapper"><tr><td class="leftcol">
+<div class="full_screen_hide">
+<ul class="menu"><li class="menu_head_first">Информация:</li><li><a href="https://www.nonograms.ru/" title="На главную">Главная</a></li><li><a href="https://www.nonograms.ru/news" title="Новости сайта">Новости</a></li><li><a href="https://www.nonograms.ru/questions" title="Вопрос-ответ">Вопрос-ответ</a></li>      <li class="menu_head">Японские кроссворды:</li><li class="menu_head2"><a class="select" href="https://www.nonograms.ru/nonograms" title="Черно-белые японские кроссворды">Черно-белые</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms/size/small" title="Маленькие черно-белые японские кроссворды">&#8250;&nbsp;&nbsp;Маленькие</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms/size/medium" title="Средние черно-белые японские кроссворды">&#8250;&nbsp;&nbsp;Средние</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms/size/large" title="Большие черно-белые японские кроссворды">&#8250;&nbsp;&nbsp;Большие</a></li><li class="menu_head2"><a href="https://www.nonograms.ru/nonograms2" title="Цветные японские кроссворды">Цветные</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms2/size/small" title="Маленькие цветные японские кроссворды">&#8250;&nbsp;&nbsp;Маленькие</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms2/size/medium" title="Средние цветные японские кроссворды">&#8250;&nbsp;&nbsp;Средние</a></li><li class="menu_sub2"><a href="https://www.nonograms.ru/nonograms2/size/large" title="Большие цветные японские кроссворды">&#8250;&nbsp;&nbsp;Большие</a></li><li><a href="https://www.nonograms.ru/search" title="Поиск японских кроссвордов">Поиск</a></li><li><a href="https://www.nonograms.ru/authors" title="Авторы кроссвордов">Авторы</a></li><li><a href="https://www.nonograms.ru/instructions" title="Как решать японские кроссворды">Как решать</a></li><li><a href="https://www.nonograms.ru/methods" title="Методы решения японских кроссвордов">Методы решения</a></li><li><a href="https://www.nonograms.ru/addcrossword" title="Прислать японский кроссворд">Прислать кроссворд</a></li><li><a href="https://www.nonograms.ru/unrated" title="Не оцененные кроссворды">Не оцененные</a></li>      <li class="menu_head">Наш сайт:</li><li><a href="https://www.nonograms.ru/help_us" title="Помощь проекту">Помощь проекту</a></li><li><a href="http://nonograms.reformal.ru" title="Идеи и предложения">Идеи и предложения</a></li><li><a href="https://www.nonograms.ru/contacts" title="Обратная связь">Обратная связь</a></li>    </ul>
+<div class="auth_panel_login">
+<a class="register" href="https://www.nonograms.ru/register">Регистрация</a>
+<a class="auth" href="https://www.nonograms.ru/auth">Авторизация</a></div>
+<script type="text/javascript">
+var usrid=0;
+var usrsvl=[];
+var usrbgl=[];
+var usrpwd='';
+var usrlng='ru';
+var usrbeta=0;
+</script>
+<div class="nonogram_rand">
+<div>Случайный кроссворд</div>
+<a href="https://www.nonograms.ru/nonograms2/i/17108"><img src="https://static.nonograms.ru/files/nonograms/small/bolshaya_nahodka_1_0.png" width="92" height="66" alt="Случайный японский кроссворд" title="Случайный японский кроссворд" id="nnglprnd"></a>
+<div class="bottom"><span>1 из 18647</span> кроссвордов</div></div>
+<script>
+(function(){var a;if(!(a=0>=usrid)){var b;var c=document.cookie.indexOf("checkbox_ss="),e=c+11+1;if(!c&&"checkbox_ss"!=document.cookie.substring(0,11)||-1==c)b=null;else{var f=document.cookie.indexOf(";",e);-1==f&&(f=document.cookie.length);b=unescape(document.cookie.substring(e,f))}a=0<b}a&&(document.getElementById("nnglprnd").src=document.getElementById("nnglprnd").src.split("_0.png").join("_1.png"));})();
+</script>
+<div class="pay_nng_panel">
+<a href="https://www.nonograms.ru/addcrossword#action" title="Акция &laquo;Платим за кроссворды&raquo;"><img src="https://static.nonograms.ru/i/pay_crossword.png" width="108" height="128" alt="Акция &laquo;Платим за кроссворды&raquo;"></a></div>
+<div class="banner_left">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:inline-block;width:160px;height:600px"
+data-ad-client="ca-pub-1234770320060672"
+data-ad-slot="7751752354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></td><td class="document">
+<div class="head">
+<table><tr><td class="head_logo"><a href="https://www.nonograms.ru/"><img src="https://static.nonograms.ru/i/logo3.gif" width="339" height="75" alt="Логотип"></a></td><td class="head_banner">
+<div class="panel_lang">
+<a href="https://www.nonograms.ru/" class="current" title="Русский"><img src="https://static.nonograms.ru/i/ru_off.gif" width="18" height="12" alt="Русский"></a>
+<a href="https://www.nonograms.org/" title="English"><img src="https://static.nonograms.ru/i/en.gif" width="18" height="12" alt="English"></a></div>
+<div style="min-width:470px;height:90px;width:100%;overflow:hidden;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:block;min-width:470px;height:90px;width:100%;"
+data-ad-client="ca-pub-1234770320060672"
+data-ad-slot="8791241558"
+data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></td></tr></table></div>
+<div class="breadcrumb">
+<a href="https://www.nonograms.ru/nonograms">Японские кроссворды</a>
+\
+<a href="https://www.nonograms.ru/nonograms">Черно-белые</a>
+\
+<span id="breadcrumb_last_item">Японский кроссворд &laquo;Петух&raquo;</span></div>
+<div class="content">
+<h1><span>Японский кроссворд «Петух»</span></h1>
+﻿
+<br />
+<a href="https://www.nonograms.ru/nonogramprint/i/19083" target="_blank" id="nonogram_print" title="Печать японского кроссворда &laquo;Петух&raquo;" onclick="window.open('https://www.nonograms.ru/nonogramprint/i/19083');return false;">Печать</a>
+| <a class="lightbox" href="https://static.nonograms.ru/files/nonograms/large/petuh36_12_1_1p.png" target="_blank" id="nonogram_answer" title="Ответ японского кроссворда &laquo;Петух&raquo;">Ответ</a>
+| <a class="lightbox" href="https://static.nonograms.ru/files/nonograms/stat/ru/19083.png" target="_blank" id="nonogram_stat" title="Статистика решения японского кроссворда &laquo;Петух&raquo;">Статистика</a>
+| <a href="https://www.nonograms.ru/questions#q7" target="_blank" title="Как пользоваться online-кроссвордом на данной странице?">Как пользоваться online-кроссвордом?</a>
+<span id="nonogram_addit_links"></span>
+<br />
+<br />
+<table><tr><td>Размер: 14x15</td><td style="padding-left:12px;">Картинка:<img width="57" height="11" src="https://static.nonograms.ru/i/r7.gif" alt="7/10" title="7/10"></td><td style="padding-left:12px;">Сложность:<img width="57" height="11" src="https://static.nonograms.ru/i/r3.gif" alt="3/10" title="3/10"></td><td style="padding-left:12px;">Добавлен:</td><td>26.06.18</td><td style="padding-left:12px;">Автор: <a href="https://www.nonograms.ru/user/67469">Bulat Magafurov</a></td></tr></table>
+<br />
+<script type="text/javascript">
+var d=[[300,9,21,162],[39,51,76,77],[31,57,73,75],[23,32,54,64],[4,24,63,12],[24,4,12,64],[91,38,26,11],[25,27,16,22],[27,28,17,30],[27,28,17,29],[29,36,17,29],[27,32,17,28],[31,31,17,33],[31,28,17,26],[28,31,17,25],[33,28,17,36],[30,33,17,31],[29,38,17,30],[32,30,17,34],[36,31,17,27],[39,28,17,29],[33,28,17,35],[38,28,17,31],[26,32,17,27],[35,32,17,28],[26,33,17,24],[30,32,17,32],[31,31,17,37],[27,31,17,23],[37,29,17,26],[27,30,17,26],[13,100,77,25],[20,27,3,22],[24,28,26,35],[32,28,16,24],[34,28,54,31],[29,28,13,24],[25,28,9,32],[24,37,7,30],[33,28,43,34],[28,28,29,36],[22,28,24,31],[21,28,45,36],[26,31,23,37],[23,28,25,33],[33,28,38,29],[21,28,38,29],[31,28,15,35],[29,28,30,35],[29,28,30,31],[22,28,24,27],[29,28,48,27],[25,28,9,26],[25,28,9,31],[23,28,25,36],[24,28,26,34],[26,28,18,24],[27,28,11,24],[26,28,10,31],[24,28,8,37],[27,28,28,35],[22,28,24,33],[30,28,14,24],[26,29,42,33],[33,28,50,31],[30,28,49,27],[32,28,31,28],[28,28,29,26],[24,28,8,36],[28,28,29,27],[30,28,14,26],[23,28,25,30],[29,28,48,34],[23,28,25,32],[21,30,23,37],[23,29,17,23],[32,30,22,33],[33,28,35,26],[34,28,39,30],[29,28,19,25],[34,28,51,26],[33,29,18,24],[22,28,24,23],[30,28,14,34],[26,28,55,34],[22,28,24,34],[23,28,25,27],[21,28,43,34],[34,28,32,28],[22,28,24,36],[27,28,34,25],[24,28,26,33],[28,28,29,35],[33,28,37,28],[29,28,37,28],[31,28,15,34],[27,28,43,34],[31,28,15,24],[32,28,16,35],[31,28,15,37],[27,28,28,36],[21,28,42,33],[30,28,14,23],[31,28,15,26],[30,28,14,32],[34,28,53,27],[21,29,19,25],[23,28,25,29],[34,28,32,36],[31,28,15,36],[28,28,12,31],[25,28,9,36],[32,28,31,29],[22,28,24,28],[24,28,26,31],[26,28,27,36],[29,28,41,32],[27,28,37,28],[25,28,9,24],[25,28,9,37],[33,28,50,27],[33,28,45,36],[21,28,53,27],[32,28,52,26],[24,28,26,27],[28,28,18,24],[24,29,5,28],[27,28,41,32],[34,28,32,35],[31,28,15,23],[26,28,33,23],[30,29,40,31],[22,28,24,30],[21,28,35,26],[30,28,14,25],[26,28,46,26],[28,28,29,28],[31,28,15,25],[21,28,17,23],[23,28,25,25],[33,29,19,25],[31,28,36,27],[30,28,14,33],[22,29,20,26],[34,28,32,29],[32,30,21,32],[32,28,31,27],[29,28,13,23],[22,28,24,32],[26,28,10,32],[23,28,25,28],[33,29,23,37],[21,28,40,31],[28,28,29,34],[27,28,11,23],[28,28,29,33],[22,28,24,35],[24,35,6,29],[25,28,4,27],[32,28,16,36],[24,28,26,25],[33,28,44,35],[32,28,16,25],[26,28,27,35],[29,28,30,36],[30,29,5,28],[25,28,9,33],[32,28,54,31],[24,28,26,32],[21,28,39,30],[21,28,21,32],[27,28,40,31],[32,28,16,23],[28,28,17,23],[21,28,56,28],[30,28,14,37],[31,28,15,33],[30,28,14,36],[23,28,25,31],[25,28,9,35],[26,28,46,27],[34,28,32,34],[25,28,9,25],[32,28,31,34],[26,28,10,25],[22,28,24,29],[23,28,25,35],[23,28,25,34],[27,28,47,26],[24,28,26,26],[29,28,48,26],[30,28,14,35],[27,28,36,27],[31,28,15,32],[32,28,16,37],[33,29,17,23],[26,28,57,28],[28,28,29,25],[21,28,44,35],[25,28,9,34],[29,28,42,33],[25,28,9,23],[28,28,29,32],[21,31,18,24]];
+</script>
+<script src="https://www.nonograms.ru/js/nonogram.min.058.js" type="text/javascript"></script>
+<br /><br />
+<div class="nonogram_share">
+Поделиться кроссвордом: <span id="share_icons"></span></div>
+<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<script type="text/javascript">
+try{
+new Ya.share({
+element: 'share_icons',
+elementStyle: {
+'type': 'none',
+'quickServices': ['vkontakte', 'facebook', 'twitter', 'gplus', 'odnoklassniki', 'moimir', 'lj', 'friendfeed', 'yazakladki', 'moikrug', 'yaru', 'delicious', 'linkedin', 'myspace', 'juick', 'blogger', 'gbuzz', 'evernote']
+},
+title: "Японский кроссворд «Петух»",
+image: "https://static.nonograms.ru/files/nonograms/small/petuh36_1_0.png"
+});
+}catch(e) {}
+</script>
+<div id="form_comment_nonogram_wrapper">
+<div class='comments_caption'><span>КОММЕНТАРИИ</span></div>
+<div class="comments" id="comments_list">
+<div class="comment_item" id="comment_439845">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+Бегемот (кот)              <span class="comment_date">(27 июня 2018, 0:21)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439845,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">с какой стороны голова? Он клюёт правой стороной иои кукарекает - левой? <br />Или - о, ужас - и то, и другое???              <a href="#" class="comment_reply" onclick="comment_reply(439845);return false;">Ответить</a></div></div>
+<a href="#" class="comment_minus" onclick="comment_replies_toggle(this);return false;"><span>раскрыть ветвь: 2&nbsp;&#128488;</span></a><div class="comment_replies">
+<div class="comment_item" id="comment_440243">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/75945">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Олег       </a>       <span class="comment_date">(27 июня 2018, 20:28)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440243,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Сказал Бегемот (кот).              <a href="#" class="comment_reply" onclick="comment_reply(440243);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440676">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/67515">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Feya       </a>       <span class="comment_date">(28 июня 2018, 20:21)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440676,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Пока думала, как сформулировать свои впечатления, Котейко меня опередил. В точку! )))              <a href="#" class="comment_reply" onclick="comment_reply(440676);return false;">Ответить</a></div></div></div>
+<div class="comment_item" id="comment_439867">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/16719">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Танечка       </a>       <span class="comment_date">(27 июня 2018, 2:07)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439867,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">тоже не могу понять где голова              <a href="#" class="comment_reply" onclick="comment_reply(439867);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439908">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/677">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Ladna Pani       </a>       <span class="comment_date">(27 июня 2018, 5:29)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439908,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Куда нога длиннее, туда и голова              <a href="#" class="comment_reply" onclick="comment_reply(439908);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439909">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/79008">                <img src="https://static.nonograms.ru/i/anonimous.png">
+OlgaZ       </a>       <span class="comment_date">(27 июня 2018, 5:30)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439909,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">да, немного странный. Спасибо.              <a href="#" class="comment_reply" onclick="comment_reply(439909);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439913">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/74788">                <img src="https://static.nonograms.ru/i/anonimous.png">
+lexsan       </a>       <span class="comment_date">(27 июня 2018, 5:40)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439913,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">В древнегреческом шлеме              <a href="#" class="comment_reply" onclick="comment_reply(439913);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439943">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/75868">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Владимир 72       </a>       <span class="comment_date">(27 июня 2018, 8:43)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439943,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Вам же сказали, где лапка длиньше,там и голова.              <a href="#" class="comment_reply" onclick="comment_reply(439943);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439953">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/35951">                <img src="https://static.nonograms.ru/i/anonimous.png">
+твкколчер       </a>       <span class="comment_date">(27 июня 2018, 9:02)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439953,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Спасибо.              <a href="#" class="comment_reply" onclick="comment_reply(439953);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439972">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+Галина              <span class="comment_date">(27 июня 2018, 10:01)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439972,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Шея гола, хвост ободран,<br />Гребень холод прихватил,<br />И один лишь голос бодро<br />Подает из под стропил...<br /><br />Алексей Олег Суворов              <a href="#" class="comment_reply" onclick="comment_reply(439972);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_439999">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/6987">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Евгения       </a>       <span class="comment_date">(27 июня 2018, 11:01)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(439999,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Тяни-толкай из &quot;Доктора Айболита&quot;, Так вот ты какой!              <a href="#" class="comment_reply" onclick="comment_reply(439999);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440046">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/92068">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Татьяна       </a>       <span class="comment_date">(27 июня 2018, 12:46)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440046,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Петушок. Голова слева.              <a href="#" class="comment_reply" onclick="comment_reply(440046);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440076">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/72215">                <img src="https://static.nonograms.ru/i/anonimous.png">
+mtm       </a>       <span class="comment_date">(27 июня 2018, 13:44)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440076,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">спасибо, я тоже в обе стороны вижу голову              <a href="#" class="comment_reply" onclick="comment_reply(440076);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440125">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/86327">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Александр       </a>       <span class="comment_date">(27 июня 2018, 15:24)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440125,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Гибрид петуха и тянитолкая)))              <a href="#" class="comment_reply" onclick="comment_reply(440125);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440146">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+валентина              <span class="comment_date">(27 июня 2018, 16:14)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440146,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">петушок на палочке из детства              <a href="#" class="comment_reply" onclick="comment_reply(440146);return false;">Ответить</a></div></div>
+<a href="#" class="comment_minus" onclick="comment_replies_toggle(this);return false;"><span>раскрыть ветвь: 1&nbsp;&#128488;</span></a><div class="comment_replies">
+<div class="comment_item" id="comment_440713">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/40712">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Irina       </a>       <span class="comment_date">(28 июня 2018, 21:38)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440713,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Уверена была, что это Петушок на палочке (леденец), но перекладинка в нижней строчке все испортила.              <a href="#" class="comment_reply" onclick="comment_reply(440713);return false;">Ответить</a></div></div></div>
+<div class="comment_item" id="comment_440215">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/8987">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Т.С.       </a>       <span class="comment_date">(27 июня 2018, 19:20)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440215,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Спасибо              <a href="#" class="comment_reply" onclick="comment_reply(440215);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440328">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+илья              <span class="comment_date">(28 июня 2018, 0:12)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440328,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">спасибо              <a href="#" class="comment_reply" onclick="comment_reply(440328);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440391">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/74837">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Sheryl Hill       </a>       <span class="comment_date">(28 июня 2018, 6:41)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440391,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Спасибо              <a href="#" class="comment_reply" onclick="comment_reply(440391);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440589">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/91769">                <img src="https://static.nonograms.ru/i/anonimous.png">
+galina1       </a>       <span class="comment_date">(28 июня 2018, 17:19)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440589,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">555555555555555555555              <a href="#" class="comment_reply" onclick="comment_reply(440589);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440613">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/69645">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Татьяна       </a>       <span class="comment_date">(28 июня 2018, 18:06)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440613,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Спасибо              <a href="#" class="comment_reply" onclick="comment_reply(440613);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_440614">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/88599">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Олег В       </a>       <span class="comment_date">(28 июня 2018, 18:10)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(440614,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">Спасибо.              <a href="#" class="comment_reply" onclick="comment_reply(440614);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_441075">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+Гимназист              <span class="comment_date">(29 июня 2018, 13:47)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(441075,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">В России на конёк избы крепили петушка из жести. СПАСИБО!              <a href="#" class="comment_reply" onclick="comment_reply(441075);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_441116">
+<div class="comment_header">
+<a href="https://www.nonograms.ru/user/2881">                <img src="https://static.nonograms.ru/i/anonimous.png">
+Наталья       </a>       <span class="comment_date">(29 июня 2018, 15:29)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(441116,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">спасибо              <a href="#" class="comment_reply" onclick="comment_reply(441116);return false;">Ответить</a></div></div>
+<div class="comment_item" id="comment_441457">
+<div class="comment_header">
+<img src="https://static.nonograms.ru/i/anonimous.png">
+Анна              <span class="comment_date">(30 июня 2018, 11:54)</span>
+<a class="comment_abuse" href="#" onclick="comment_abuse(441457,this);return false;"><span>пожаловаться</span></a>            </div>
+<div class="comment_text">А зачем на хвосте глаз?              <a href="#" class="comment_reply" onclick="comment_reply(441457);return false;">Ответить</a></div></div></div>
+<br><br>
+<h3>Добавить отзыв о кроссворде</h3>
+<a name="form"></a>
+<div id="form_comment_nonogram">
+<form action="https://www.nonograms.ru/nonograms/i/19083#form" method="post" onsubmit="form_submit(this);return false;">
+<label>Ваша оценка кроссворда:</label>
+<table class="nonogram_comment"><tr><td align="left">
+<label>Сложность:</label></td><td>
+<select name="complexity"><option value="0" selected="selected">Нет ответа</option><option value="1">Очень простой</option><option value="2">Простой</option><option value="3">Средний</option><option value="4">Сложный</option><option value="5">Очень сложный</option>            </select></td></tr><tr><td align="left">
+<label>Картинка красивая?</label></td><td>
+<select name="beauty"><option value="0" selected="selected">Нет ответа</option><option value="1">Ужасно</option><option value="2">Плохо</option><option value="3">Нормально</option><option value="4">Красиво</option><option value="5">Очень красиво</option>            </select></td></tr></table>
+<label>Текст комментария:</label>
+<div class="textarea_wrapper">
+<textarea id="form_comment_nonogram_textarea" name="text" rows="5" cols="20"></textarea>
+<div class="comment_bbcode">
+<img src="https://static.nonograms.ru/i/bbcode_url.png" alt="Вставить ссылку" title="Вставить ссылку" onclick="bbcode_add('[url]','[/url]','form_comment_nonogram_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_img.png" alt="Вставить изображение" title="Вставить изображение" onclick="bbcode_add('[img]','[/img]','form_comment_nonogram_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_spoiler.png" alt="Вставить спойлер" title="Вставить спойлер" onclick="bbcode_add('[spoiler]','[/spoiler]','form_comment_nonogram_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_quote.png" alt="Вставить цитату" title="Вставить цитату" onclick="bbcode_add('[quote]','[/quote]','form_comment_nonogram_textarea');return false;"></div></div>
+<label>Ваше имя:</label>
+<input type="text" name="author" value="" />
+<div class="recaptcha" id="recaptcha_9c7c2e6435911488f0b19aae5e5a97e3"></div>
+<div class="submit_wrapper">
+<input type="submit" name="submit" value="Отправить" class="button_submit" /></div>
+<input type="hidden" name="crossword_id" value="19083" />
+</form></div>
+<br><br>
+<div id="form_comment_reply" style="display:none;">
+<form action="https://www.nonograms.ru/nonograms/i/19083#form" method="post" onsubmit="form_submit(this);return false;">
+<div class="textarea_wrapper">
+<textarea placeholder="Текст комментария" id="form_comment_reply_textarea" name="text" rows="5" cols="20"></textarea>
+<div class="comment_bbcode">
+<img src="https://static.nonograms.ru/i/bbcode_url.png" alt="Вставить ссылку" title="Вставить ссылку" onclick="bbcode_add('[url]','[/url]','form_comment_reply_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_img.png" alt="Вставить изображение" title="Вставить изображение" onclick="bbcode_add('[img]','[/img]','form_comment_reply_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_spoiler.png" alt="Вставить спойлер" title="Вставить спойлер" onclick="bbcode_add('[spoiler]','[/spoiler]','form_comment_reply_textarea');return false;">
+<img src="https://static.nonograms.ru/i/bbcode_quote.png" alt="Вставить цитату" title="Вставить цитату" onclick="bbcode_add('[quote]','[/quote]','form_comment_reply_textarea');return false;"></div></div>
+<label>Ваше имя:</label>
+<input type="text" name="author" value="" />
+<div class="recaptcha" id="recaptcha_31c793c7fd12e74f13c5cf53cc6d2d62"></div>
+<div class="submit_wrapper">
+<input type="submit" name="submit" value="Отправить" class="button_submit" />
+<a class="form_comment_reply_cancel" onclick="comment_reply_cancel();return false;" href="#">Отмена</a></div>
+<input type="hidden" name="parent" value="0" id="form_comment_reply_parent" />
+<input type="hidden" name="crossword_id" value="19083" />
+</form></div></div>
+<script src="https://www.nonograms.ru/js/comments.min.004.js"></script></div></td></tr><tr><td class="leftcolfooter"><div>&nbsp;</div></td><td class="documentfooter"><div>&nbsp;</div></td></tr><tr><td colspan="2" class="footer">
+<div class="counters">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?2640658"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2640658/">
+<img src="//counter.rambler.ru/top100.cnt?2640658" alt="Rambler's Top100" border="0" />
+</a>
+</noscript>
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter1284765 = new Ya.Metrika({id:1284765, enableAll: true});
+}
+catch(e) { }
+});
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/1284765" style="position:absolute; left:-9999px;" alt="" /></div></noscript></div>
+<div class="copyright">
+Copyright &copy; 2009-2018 Чугунный К.А. (KyberPrizrak)<br>
+<span>Перепечатка, копирование и воспроизведение материалов сайта в любой форме запрещены без письменного согласия владельца.</span></div></td></tr></table>
+<script type="text/javascript">
+microlightbox(".lightbox");
+</script>
+<script type="text/javascript">
+function recaptcha_onloadCallback(){
+grecaptcha.render('recaptcha_9c7c2e6435911488f0b19aae5e5a97e3',{'sitekey':'6LcaGB4UAAAAAGsuKraUvEedrmSkdUgZI_dqKNbU'});
+grecaptcha.render('recaptcha_31c793c7fd12e74f13c5cf53cc6d2d62',{'sitekey':'6LcaGB4UAAAAAGsuKraUvEedrmSkdUgZI_dqKNbU'});
+}
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=recaptcha_onloadCallback&render=explicit&hl=ru" async defer></script>
+</body>
+</html>
